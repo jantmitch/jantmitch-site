@@ -594,7 +594,7 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 textarea:focus,
 select:focus {
-	color: #cc005f;
+	color: crimson;
 	border-bottom: 1px solid crimson;
 }
 label, legend {

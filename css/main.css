@@ -1800,6 +1800,8 @@ header .logo a {
 	overflow: hidden;
 }
 #portfolio .folio-item img {
+	height: 400px;
+	width: 600px;
 	vertical-align: middle;
 	-moz-transition: all 0.5s ease-in-out;
 	-o-transition: all 0.5s ease-in-out;
